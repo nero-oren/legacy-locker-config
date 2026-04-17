@@ -1,0 +1,8 @@
+{
+  "min_version": "1.0.0",
+  "latest_version": "1.0.0",
+  "force_update": false,
+  "update_message": "A new version of Legacy Locker is required to continue. Please update from the app store.",
+  "android_store_url": "https://play.google.com/store/apps/details?id=com.legacylocker.app",
+  "ios_store_url": "https://apps.apple.com/app/legacy-locker/idXXXXXXXXX"
+}
